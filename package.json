@@ -1,0 +1,15 @@
+{
+  "name": "learn-testing",
+  "version": "1.0.0",
+  "description": "This repository is to learn about JavaScript testing using jest library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
